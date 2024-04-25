@@ -1,0 +1,10 @@
+/nft-farm
+  Cargo.toml
+  /nft-staking
+    Cargo.toml
+    /src
+      lib.rs
+  /ft-rewards
+    Cargo.toml
+    /src
+      lib.rs

@@ -1,0 +1,18 @@
+# Rust-specific gitignore rules
+/target
+**/*.rs.bk
+
+# Ignore cargo lock files (optional, include if you are building a library)
+Cargo.lock
+
+# Rust tooling
+**/.rustc_info.json
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System-specific
+.DS_Store

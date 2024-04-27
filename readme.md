@@ -124,4 +124,4 @@ near call YOUR_REWARDS_CONTRACT_ACCOUNT.new '{"owner_id": "YOUR_ACCOUNT_HERE.tes
 Contributions are welcome. Please submit an issue or fork the repository and submit a pull request with your changes and improvements.
 
 ## License
-[MIT}(https://github.com/flowscience/nft-farm/blob/main/LICENSE)
+[MIT](https://github.com/flowscience/nft-farm/blob/main/LICENSE)
